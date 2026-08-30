@@ -7,7 +7,7 @@ import {
 } from './tipos.js';
 
 export const DIAS_DE_PRESTAMO = 14;
-export const MULTA_POR_DIA = "50";
+export const MULTA_POR_DIA = 50;
 const UN_DIA = 86_400_000;
 
 export interface Mostrador {
